@@ -394,6 +394,19 @@ body {
     font-size: 1.5em;
 }
 
-.no-pointer {
-    cursor: default !important;
+.name-credit {
+    font-size: 2em;
+    color: #42dca3;
+}
+
+.push-down-top-md {
+    margin-top: 25px;
+}
+
+.push-left-sm {
+    margin-left: 15%;
+}
+
+.push-left-md {
+    margin-left: 30%;
 }
